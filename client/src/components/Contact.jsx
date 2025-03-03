@@ -66,14 +66,14 @@ const Contact = () => {
                   <div className='pod3_t'>1 000 000₽</div>
                   </div>
 
-                <div className='bid'>
+                <!-- <div className='bid'>
                   <b className='pod21_t'>
                       <strong className='txcol'>"</strong>Конкурс 'Студенческий старатап' <strong className='txcol'>"</strong>
                   </b>
                   <div className='pod3_t'>
                         1 000 000₽
                   </div>
-                </div>
+                </div> !-->
                 </div>
                 </div>
             </div>
@@ -198,14 +198,14 @@ const Contact = () => {
                   <div className='pod3'>1 000 000₽</div>
                   </div>
 
-                <div className='bid'>
+                <!-- <div className='bid'>
                   <b className='pod2'>
                       <strong className='txcol'>"</strong>Конкурс 'Студенческий старатап' <strong className='txcol'>"</strong>
                   </b>
                   <div className='pod3'>
                         1 000 000₽
                   </div>
-                </div>
+                </div> !-->
                 </div>
                 </div>
             </div>
